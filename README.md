@@ -2,7 +2,7 @@
 
 Na wejściu w pierwszej linijce podana jest liczba akcji (n).
 W kolejnych linijkach podane są akcje:<br>
-    - dodaj – oznacza dodanie książki do biblioteki, zapisane np. jako :
+    - dodaj – oznacza dodanie książki do biblioteki, zapisane np. jako:<br>
 ("dodaj", "Pan Tadeusz", "Adam Mickiewicz", 2000)<br>
     - wypozycz – oznacza wypożyczenie egzemplarza ksiazki przez
 czytelnika (można wypożyczyć tylko jeden egzemplarz tej samej
@@ -10,7 +10,7 @@ książki; przyjmij też, że domyślnie można wypożyczyć maksymalnie 3
 egzemplarze różnych książek). Akcja może być zapisana jako:<br>
 ("wypozycz", "Jakub Dzikowski", "Quo Vadis")<br>
     - oddaj – oznacza zwrócenie konkretnego egzemplarza książki do
-biblioteki. Może być zapisane jako : ("oddaj", "Jakub Dzikowski", "Quo
+biblioteki. Może być zapisane jako:<br> ("oddaj", "Jakub Dzikowski", "Quo
 Vadis")
 
 ### Przykładowe wejście:
